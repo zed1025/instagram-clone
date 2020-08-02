@@ -1,0 +1,1 @@
+d: & cd D:\dev\django\venv_django\Scripts & activate & cd D:\dev\django\projects\instagram-clone
